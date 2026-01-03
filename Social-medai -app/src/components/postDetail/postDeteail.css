@@ -1,0 +1,12 @@
+.post_detail{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+
+}
+.post_detail_img img{
+  border-radius: 5%;
+  max-width: 450px;
+  }
+ 

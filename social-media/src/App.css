@@ -1,0 +1,27 @@
+.items-container {
+  display: flex;
+} 
+
+.main-items {
+  width: 100%;
+}
+
+.my-card {
+  margin: 30px 50px;
+}
+.hashtag {
+  margin: 10px 3px;
+}
+
+.sidebar {
+  min-height: 1000px;
+}
+
+.create-post {
+  width: 70%;
+  margin: 50px;
+}
+
+.spinner {
+  margin: 100px 0;
+}
